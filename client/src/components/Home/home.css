@@ -1,0 +1,17 @@
+#home {
+  margin-top: 200px;
+}
+
+#viewAll {
+  text-align: center;
+  padding: 20px;
+  background-color: #4CAF50;
+  border: 3px solid white;
+  border-radius: 25px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+#viewAll {
+  border: 3px solid black;
+}

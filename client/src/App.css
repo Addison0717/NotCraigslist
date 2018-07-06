@@ -1,0 +1,21 @@
+h1, h2, h3, a {
+  font-family: "Roboto", "Lato", sans-serif;
+}
+
+a, a:visited, a:active {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Fredoka One", sans-serif;
+}
+
+img {
+  width: 250px;
+}
